@@ -1,0 +1,49 @@
+.roboto {
+    font-family: 'Roboto';
+}
+.montserrat {
+    font-family: 'Montserrat';
+}
+.header {
+    border-top: 2px solid #ff5400;
+    font-family: 'Montserrat';
+    box-shadow: 2px 2px 4px #000;
+    font-size: 150%;
+    width: 100%;
+}
+.titulo{
+    font-family: 'Montserrat';
+    font-size: 150%;
+    text-align: center;
+    border-bottom: 1px solid #d8d8d8;
+    margin: 5% 20%;
+}
+.label {
+    font-family: 'Montserrat';
+}
+.select {
+     font-family: 'Roboto';
+}
+#up {
+    width: 20%;
+    float: right;
+    position: fixed;
+    top: 95%;
+    left: 79%;
+    font-family: 'Roboto';
+}
+.listaVuelos {
+    margin:10px;
+    border-radius: 10px;
+}
+
+.listaVuelos ul li span {
+    margin-left: 90px;
+    border: 0.5px solid #333;
+    margin-right: 5px;
+}
+
+#tituloDestino {
+    font-size: 22px;
+    margin-bottom: 30px;
+}
